@@ -1,0 +1,154 @@
+@media screen and (max-width: 1024px) {
+  .content {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+  }
+
+  .word {
+    max-width: 100%;
+  }
+
+  #distance1 {
+    margin-left: 70px !important;
+    margin-right: 200px !important;
+  }
+
+  #distance2 {
+    margin-right: 200px !important;
+  }
+  #distance3 {
+    margin-right: 180px !important;
+  }
+
+  .checkout {
+    margin-left: 400px !important;
+    margin-top: 10px !important;
+  }
+
+  .choose {
+    margin-left: 200px !important;
+  }
+
+  #UNITPRICE {
+    margin-left: 55px !important;
+  }
+  
+  #QUANTITY {
+    margin-left: 195px !important;
+  }
+}
+
+.content {
+  margin-left: 140px;
+  margin-right: 140px;
+  /* height: 270px; */
+  border-style: hidden;
+  margin-top: 80px;
+  margin-bottom: 10px;
+}
+
+.word {
+  text-align: center;
+  display: inline-block;
+}
+
+#distance1 {
+  margin-left: 70px;
+  margin-right: 390px;
+}
+
+#distance2 {
+  margin-right: 180px;
+}
+
+#distance3 {
+  margin-right: 180px;
+}
+
+#distance4 {
+  margin-right: 70px;
+}
+
+.block {
+  margin-top: 10px;
+}
+
+.picture {
+  text-align: center;
+  width: 180px;
+  height: 210px;
+  align-items: center;
+  background-color: white;
+  display: flex;
+  float: left;
+  border-style: solid;
+  overflow: hidden;
+  text-align: center;
+}
+.picture img {
+  height: 210px;
+  width: none;
+}
+.shop {
+  width: 200px;
+  height: 250px;
+}
+.choose {
+  align-items: center;
+  margin-left: 200px;
+  margin-top: -120px;
+  border-style: hidden;
+  width: 980px;
+  display: flex;
+  float: left;
+}
+
+select {
+  text-align: center;
+  border-width: 2.5px;
+  border-color: black;
+  width: 70px;
+  height: 42px;
+}
+
+#UNITPRICE {
+  margin-left: 245px;
+  display: inline-block;
+  font-size: 30px;
+}
+
+#QUANTITY {
+  margin-left: 176px;
+  display: inline-block;
+  font-size: 30px;
+}
+#QUANTITY .block {
+  padding: 0 16px;
+  font-size: 24px;
+  cursor: pointer;
+  border: 2px solid #000;
+}
+#QUANTITY input {
+  width: 20px;
+  height: 20px;
+  margin: 0;
+}
+#QUANTITY .num {
+  font-size: 20px;
+}
+
+#SubTotal {
+  margin-left: 158px;
+  display: inline-block;
+  font-size: 30px;
+}
+
+.checkout {
+  border-style: hidden;
+  width: 230px;
+  height: 55px;
+  margin-top: 50px;
+  margin-left: 1120px;
+
+  margin-bottom: 50px;
+}

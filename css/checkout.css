@@ -1,0 +1,136 @@
+@media screen and (max-width: 1024px) {
+    .content {
+        margin-left: 50px !important;
+    }
+
+    .pay {
+        margin-top: 50px !important;
+        margin-right: 50px !important;
+    }
+
+    .checkout {
+        margin-top: 20px !important;
+    }
+}
+
+.pay {
+    margin-right: 150px;
+    margin-top: 80px;
+    border-style: solid;
+    float: right;
+    width: 400px;
+    height: 270px;
+}
+
+.word {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    border-style: hidden;
+    width: 300px;
+    height: 45px;
+}
+
+.picture {
+    width: 67px;
+    display: flex;
+    float: left;
+    border-style: hidden;
+    margin-left: 50px;
+}
+
+.picture1 {
+    width: 67px;
+    display: flex;
+    float: left;
+    border-style: hidden;
+    margin-left: 20px;
+}
+
+.total {
+    height: 50px;
+    margin-right: 50px;
+    margin-top: 45px;
+    float: right;
+    border-style: hidden;
+    width: 300px;
+}
+
+#total1 {
+    float: left;
+    font-size: 30px;
+}
+
+#total2 {
+    float: right;
+    font-size: 30px;
+}
+
+.content {
+    width: 800px;
+    margin-left: 150px;
+    margin-right: 90px;
+    height: 355px;
+    border-style: hidden;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.back {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+#back2 {
+    text-decoration-line:none;
+    color: black;
+}
+
+.infor {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+#infor0 {
+    margin-bottom: 40px;
+}
+
+.infor1 {
+    margin-bottom: 20px;
+}
+
+.infor2 {
+    margin-right: 15px;
+    display:flex;
+    float: left;
+}
+
+.infor3 {
+    align-items: center;
+    display: flex;
+    float: left;
+}
+
+input {
+    border-color: black;
+    border-width: 2px;
+    font-size: 18px;
+    width: 400px;
+    height: 30px;
+}
+
+select {
+    border-color: black;
+    border-width: 2px;
+    width: 100px;
+    height: 34px;
+    text-align: center;
+}
+
+.checkout {
+    border-style: hidden;
+    width: 230px;
+    height: 55px;
+    margin-left: 150px;
+    margin-bottom: 50px;
+}

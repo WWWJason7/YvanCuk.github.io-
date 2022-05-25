@@ -1,0 +1,73 @@
+@media screen and (max-width: 1024px) {
+    .top2 {
+        margin-left: 20px !important;
+    }
+
+    .picture {
+        margin-left: 50px !important;
+    }
+}
+
+.content {
+    height: 540px;
+    border-style: hidden;
+    margin-top: 80px;
+    margin-bottom: 110px;
+}
+
+.picture {
+    margin-left: 350px;
+    border-width: 3.5px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    height: 540px;
+    width: 400px;
+    float: left;
+    border-style: solid;
+}
+
+.details {
+    margin-top: 30px;
+    display: inline-block;
+    margin-left: 25px;
+}
+
+#word1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+#word2 {
+    font-size: 25px;
+    margin-bottom: 70px;
+}
+
+#price1 {
+    font-size: 50px;
+}
+
+#price2 {
+    color:rgb(67, 64, 64);
+    text-decoration: line-through;
+    font-size: 50px;
+}
+
+.size {
+    margin-top: 50px;
+}
+
+#size1 {
+    font-size: 20px;
+}
+
+select {
+    font-size: 18px;
+    text-align: center;
+    height: 40px;
+    width: 360px;
+}
+
+.tobag {
+    margin-top: 20px;
+}

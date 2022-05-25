@@ -1,0 +1,121 @@
+* {
+    font-family: 'Roboto Slab', serif;
+    padding: 0px;
+    margin: 0;
+  }
+  
+  @media screen and (max-width: 1024px) {
+    .logo {
+        margin-left: 50px !important;
+    }
+    #topic1_1 {
+        margin-left: 221px !important;
+    }
+
+    .top2 {
+      margin-left: 272px !important;
+    }
+    
+    .buttons {
+      margin-bottom: -100px !important;
+      margin-left: 40px !important;
+    }
+
+}
+  
+  body {
+    background-color: rgb(232, 232, 232);
+  }
+  ul {
+    list-style: none;
+  }
+  .white {
+    height: 40px;
+  }
+  
+  .logo {
+    display: flex;
+    float: left;
+    margin-left: 150px;
+  }
+  
+  .top1 {
+    display: flex;
+    float: left;
+    border-style: hidden;
+    margin-top: 18px;
+    width: 700px;
+  }
+  
+  .top2 {
+    margin-top: 8px;
+    margin-left: 240px;
+    display: inline-block;
+    width: 350px;
+    border-style: hidden;
+  }
+  
+  #top2_1 {
+    margin-right: 30px;
+  }
+  .search {
+    display: none;
+    padding: 40px 300px;
+    border-bottom: 1px solid #000;
+  }
+  .search ul li {
+    float: left;
+    margin-right: 30px;
+    font-size: 20px;
+  }
+  /* .center {
+    display: inline-block;
+  } */
+  .search .center {
+    margin-top: 30px;
+  }
+  .search .center input {
+    border-style: solid;
+    border-color:black;
+    width: 80%;
+    height: 40px;
+    text-indent: 10px;
+    font-size: 20px;
+  }
+  .search .center button {
+    border-style: none;
+    width: 16%;
+    height: 40px;
+    margin-left: 0;
+    background: #000;
+    color: #fff;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 42px;
+  }
+  
+  #topic1_1 {
+    font-size: 20px;
+    text-decoration-line: none;
+    color: black;
+    margin-left: 330px;
+  }
+  
+  #topic1_2 {
+    font-size: 20px;
+    text-decoration-line: none;
+    color: black;
+    margin-left: 100px;
+  }
+  
+  #topic1_1:hover {
+    color: rgb(134, 134, 134);
+  }
+  
+  #topic1_2:hover {
+    color: rgb(134, 134, 134);
+  }
+  
+  #shop:hover {
+    color: rgb(134, 134, 134);
+  }

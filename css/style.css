@@ -1,0 +1,51 @@
+*{
+    font-family: 'Roboto Slab', serif;
+}
+
+@media screen and (max-width: 1024px){
+    .end {
+        max-width: 100%;
+    }
+    .end2 {
+        margin-left: 250px !important;
+        margin-right: 10px !important;
+    }
+}
+
+body {
+    background-color:rgb(232, 232, 232);
+}
+
+.end {
+    border-style: hidden;
+    height: 125px;
+}
+
+.end1 {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.end2 {
+    font-size: 19px;
+    display: inline-block;
+    margin-left: 685px;
+    margin-right: 105px;
+}
+
+#end2_1 {
+    text-decoration-line:none;
+    color: black;
+}
+
+.end3 {
+    display: inline-block;
+}
+
+hr {
+    border: 0;
+    color: black;
+    background-color: black;
+    height: 3px;
+}

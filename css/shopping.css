@@ -1,0 +1,75 @@
+@media screen and (max-width: 1024px) {
+  .content {
+    max-width: 100%;
+    margin-left: 33px !important;
+  }
+}
+
+.content {
+  margin-left: 170px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.choose {
+  margin-left: 30px;
+  float: left;
+  border-style: hidden;
+  width: 140px;
+  height: 160px;
+}
+.choose div {
+  cursor: pointer;
+  margin-top: 10px;
+  margin-bottom: 4px;
+}
+
+.choose ul {
+  margin-top: 0px;
+  list-style: none;
+}
+.choose ul li {
+  padding: 4px 0;
+  text-indent: 10px;
+  cursor: pointer;
+}
+
+#choose1 {
+  margin: 0px;
+  padding: 0px;
+  font-size: 20px;
+  cursor: default;
+}
+
+.commodity {
+  text-align: center;
+  display: inline-block;
+  border-style: hidden;
+  width: 962px;
+  height: 900px;
+}
+
+.commodity1 {
+  border-width: 3.5px;
+  border-style: solid;
+  background-color: white;
+  width: 289px;
+  height: 410px;
+  display: flex;
+  align-items: center;
+  float: left;
+  margin-right: 37px;
+  margin-bottom: 37px;
+}
+
+.commodity2 {
+  border-width: 3.5px;
+  border-style: solid;
+  background-color: white;
+  width: 289px;
+  height: 410px;
+  display: flex;
+  float: left;
+  align-items: center;
+  margin-bottom: 37px;
+}

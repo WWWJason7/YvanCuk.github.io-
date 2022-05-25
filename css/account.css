@@ -1,0 +1,68 @@
+@media screen and (max-width: 1024px) {
+  .content {
+    margin-left: 351px !important;
+  }
+}
+
+
+.content {
+  margin-left: 580px;
+  border-style: hidden;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.login {
+  display: inline-block;
+  margin-right: 19px;
+}
+.login a,
+.signup a {
+  width: 148px;
+  height: 63px;
+  display: block;
+  border: 2px solid #000;
+  text-decoration: none;
+  text-align: center;
+  line-height: 63px;
+  font-size: 26px;
+  color: black;
+}
+.login .active,
+.signup .active {
+  background: #000;
+  color: #fff;
+}
+.signup {
+  display: inline-block;
+}
+
+.write {
+  margin-top: 20px;
+  font-size: 18px;
+  padding: 0px;
+}
+
+input {
+  font-size: 20px;
+  border-color: black;
+  height: 50px;
+  width: 322px;
+  border-width: 2.7px;
+}
+
+.enter {
+  margin-top: 20px;
+  background-color: black;
+  line-height: 50px;
+  font-size: 26px;
+  height: 50px;
+  text-align: center;
+  border-style:solid;
+  width: 322px;
+}
+
+#enter1 {
+  text-decoration-line: none;
+  color: white;
+}
